@@ -1,60 +1,119 @@
 {
   "project_info": {
-    "project_number": "684337102703",
-    "firebase_url": "https://whatsapp-cddc0.firebaseio.com",
-    "project_id": "whatsapp-cddc0",
-    "storage_bucket": "whatsapp-cddc0.appspot.com"
+    "project_number": "777506871413",
+    "firebase_url": "https://groupchatapp-3b0f0.firebaseio.com",
+    "project_id": "groupchatapp-3b0f0",
+    "storage_bucket": "groupchatapp-3b0f0.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:684337102703:android:985e50a209c727f3",
+        "mobilesdk_app_id": "1:777506871413:android:cea40336331b03bef4003c",
+        "android_client_info": {
+          "package_name": "com.example.aditya.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777506871413-5vt7t3sr9g65qeime81rtg6mokk1ehsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditya.chatapp",
+            "certificate_hash": "514e597835345e5cd74f9c7e02751e26bee63016"
+          }
+        },
+        {
+          "client_id": "777506871413-88vp1rukihlnbvl9a1h279k6unbv2i8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDatiDCgKsEbjFvr--90DewP7lWjlrPNpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777506871413-88vp1rukihlnbvl9a1h279k6unbv2i8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777506871413:android:41af192beb3827f4f4003c",
+        "android_client_info": {
+          "package_name": "com.example.naziur.groupchatandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777506871413-98d398s9p3j8jnmfl7a0r9d8on6ug086.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naziur.groupchatandroidapp",
+            "certificate_hash": "514e597835345e5cd74f9c7e02751e26bee63016"
+          }
+        },
+        {
+          "client_id": "777506871413-88vp1rukihlnbvl9a1h279k6unbv2i8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDatiDCgKsEbjFvr--90DewP7lWjlrPNpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777506871413-88vp1rukihlnbvl9a1h279k6unbv2i8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777506871413:android:d9cf74ae355daad0f4003c",
         "android_client_info": {
           "package_name": "com.stephanie.whatsapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "684337102703-asskp6354ge6etrvulset13mpupil1t5.apps.googleusercontent.com",
+          "client_id": "777506871413-5tom5ct16jgbp57g8op18vogd9fmuni7.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.stephanie.whatsapp",
-            "certificate_hash": "988be4281fd9a7e65c530a29d8d1bc4ff6421024"
+            "certificate_hash": "514e597835345e5cd74f9c7e02751e26bee63016"
           }
         },
         {
-          "client_id": "684337102703-dugmk87hqi6ckbbf3snlub59rbtmvis3.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.stephanie.whatsapp",
-            "certificate_hash": "a74be44d407999d5c81d671d6993557875fe85d5"
-          }
-        },
-        {
-          "client_id": "684337102703-2k11p4qdubul7vg7kiscdp36578f2jkj.apps.googleusercontent.com",
+          "client_id": "777506871413-88vp1rukihlnbvl9a1h279k6unbv2i8e.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCVKL9OyF6jmXhk4gvHALePQID3El0DDDU"
+          "current_key": "AIzaSyDatiDCgKsEbjFvr--90DewP7lWjlrPNpg"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "684337102703-2k11p4qdubul7vg7kiscdp36578f2jkj.apps.googleusercontent.com",
+              "client_id": "777506871413-88vp1rukihlnbvl9a1h279k6unbv2i8e.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
